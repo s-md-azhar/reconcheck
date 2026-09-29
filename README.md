@@ -6,6 +6,7 @@ ReconCheck is an automated transaction reconciliation and exception management u
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+[![CI](https://img.shields.io/github/actions/workflow/status/s-md-azhar/reconcheck/test.yml?branch=main&style=for-the-badge)](https://github.com/s-md-azhar/reconcheck/actions)
 
 ## Architecture & Logic
 
