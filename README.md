@@ -54,7 +54,7 @@ For remaining unmatched records (`MISSING_IN_BANK` and `MISSING_IN_LEDGER`), the
 
 ```bash
 # Clone the repository
-git clone https://github.com/VICTUS/reconcheck.git
+git clone https://github.com/s-md-azhar/reconcheck.git
 cd reconcheck
 
 # Install dependencies
