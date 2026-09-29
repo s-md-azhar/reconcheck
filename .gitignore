@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specifics
+exceptions.xlsx
+exceptions.csv
+ground_truth.json
+# Note: ledger.csv and bank_statement.csv are intentionally committed to allow the repo to run out of the box.

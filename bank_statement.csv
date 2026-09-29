@@ -1,0 +1,181 @@
+transaction_id,date,amount,vendor,description
+TXN-1163,2026-08-18,307.82,Atlassian,Usage Fees
+TXN-1134,2026-08-17,2349.52,Salesforce,Usage Fees
+TXN-1162,2026-08-27,455.44,AWS Cloud,API Credits
+TXN-1033,2026-08-11,2468.6,GCP Services,Enterprise License
+TXN-1141,2026-08-25,1273.84,Slack,Annual Renewal
+TXN-1043,2026-08-03,3553.81,AWS Cloud,Usage Fees
+TXN-1083,2026-08-11,1057.81,Slack,Annual Renewal
+TXN-1037,2026-08-09,2661.99,Mailchimp,Overage Charges
+TXN-1105,2026-08-21,2571.56,Salesforce,Enterprise License
+TXN-1003,2026-08-04,1826.95,Atlassian,Annual Renewal
+TXN-1175,2026-08-26,4920.03,AWS Cloud,Enterprise License
+TXN-1025,2026-08-17,1294.5,Salesforce,Monthly Subscription
+TXN-1028,2026-08-14,832.88,AWS Cloud,API Credits
+TXN-1075,2026-08-03,2711.29,Salesforce,Enterprise License
+TXN-1124,2026-08-06,3311.31,Slack,Annual Renewal
+TXN-1130,2026-08-29,3167.34,Twilio,API Credits
+TXN-1072,2026-08-09,2009.14,Slack,Overage Charges
+TXN-1123,2026-08-22,1107.82,Zoom,API Credits
+TXN-1107,2026-08-19,4814.54,Slack,Monthly Subscription
+TXN-1027,2026-08-25,3222.76,GCP Services,Enterprise License
+TXN-1146,2026-08-05,3546.77,GCP Services,Overage Charges
+TXN-1007,2026-08-22,1178.1,Slack,Monthly Subscription
+TXN-1087,2026-08-09,849.83,Zoom,Annual Renewal
+TXN-1102,2026-08-10,4111.66,Twilio,Usage Fees
+TXN-1179,2026-08-21,4463.3,Zoom,API Credits
+TXN-1047,2026-08-16,1252.84,Zoom,Overage Charges
+TXN-1074,2026-08-15,3124.74,Mailchimp,Monthly Subscription
+TXN-1048,2026-08-07,516.91,GitHub,Enterprise License
+TXN-1092,2026-08-12,4499.96,AWS Cloud,Enterprise License
+TXN-1172,2026-08-23,1031.73,Mailchimp,API Credits
+TXN-1155,2026-08-06,4210.5,Stripe,Annual Renewal
+TXN-1055,2026-08-04,300.41,Salesforce,Monthly Subscription
+TXN-1140,2026-08-24,4314.4,Zoom,Enterprise License
+TXN-1049,2026-08-14,2084.96,AWS Cloud,API Credits
+TXN-1158,2026-08-14,721.71,Zoom,Usage Fees
+TXN-1161,2026-08-25,4758.46,GitHub,Enterprise License
+TXN-1060,2026-08-14,3498.13,Salesforce,API Credits
+TXN-1100,2026-08-28,241.69,Zoom,Usage Fees
+TXN-1129,2026-08-28,3854.02,Zoom,Overage Charges
+TXN-1122,2026-08-21,1645.13,Zoom,Overage Charges
+TXN-1024,2026-08-03,1954.6,Mailchimp,Overage Charges
+TXN-1081,2026-08-04,4454.08,Salesforce,Usage Fees
+TXN-1171,2026-08-19,3402.87,GitHub,Overage Charges
+TXN-1147,2026-08-14,1687.86,Zoom,Overage Charges
+TXN-1008,2026-08-28,1202.31,GCP Services,Overage Charges
+TXN-1153,2026-08-16,1136.14,GitHub,Overage Charges
+TXN-1176,2026-08-18,2170.47,Atlassian,Monthly Subscription
+TXN-1011,2026-08-30,3433.56,GCP Services,Annual Renewal
+TXN-1094,2026-08-25,2821.42,GitHub,Annual Renewal
+TXN-1008,2026-08-28,1202.31,GCP Services,Overage Charges
+UNKNOWN-ee8aeb,2026-08-03,3674.0,GCP Services INC,Annual Renewal
+TXN-1173,2026-08-27,3154.85,GCP Services,API Credits
+TXN-1101,2026-08-07,4092.1,Zoom,Enterprise License
+TXN-1054,2026-08-28,4620.16,Zoom,Annual Renewal
+TXN-1076,2026-08-05,4669.63,GCP Services,Usage Fees
+TXN-1053,2026-08-14,958.27,Zoom,Usage Fees
+TXN-1086,2026-08-01,1701.1,Stripe,API Credits
+TXN-1019,2026-08-09,741.17,Salesforce,Annual Renewal
+TXN-1061,2026-08-23,2459.02,Twilio,Enterprise License
+TXN-1106,2026-08-01,620.94,Slack,Usage Fees
+TXN-1166,2026-08-05,1230.8,Zoom,API Credits
+TXN-1045,2026-08-17,1228.12,Zoom,Usage Fees
+TXN-1093,2026-08-07,3426.23,GCP Services,Enterprise License
+TXN-1090,2026-08-02,4181.25,Mailchimp,Annual Renewal
+TXN-1021,2026-08-13,1841.88,Stripe,Annual Renewal
+TXN-1091,2026-08-05,2177.44,AWS Cloud,Enterprise License
+TXN-1177,2026-08-17,3255.34,AWS Cloud,Overage Charges
+TXN-1135,2026-08-30,4249.26,Zoom,Usage Fees
+TXN-1028,2026-08-14,832.88,AWS Cloud,API Credits
+TXN-1174,2026-08-25,1542.83,Mailchimp,Monthly Subscription
+TXN-1096,2026-08-26,4063.32,GitHub,Monthly Subscription
+TXN-1178,2026-08-27,2476.5,GitHub,Enterprise License
+TXN-1000,2026-08-28,82.17,Stripe,API Credits
+TXN-1099,2026-08-06,3947.5,GCP Services,Overage Charges
+TXN-1039,2026-08-10,2025.01,Atlassian,Overage Charges
+TXN-1121,2026-08-10,1090.4,Mailchimp,Annual Renewal
+TXN-1030,2026-08-20,4567.51,Slack,API Credits
+TXN-1156,2026-08-18,183.48,GitHub,Annual Renewal
+TXN-1003,2026-08-04,1826.95,Atlassian,Annual Renewal
+TXN-1170,2026-08-10,585.09,AWS Cloud,Enterprise License
+TXN-1062,2026-08-07,4845.11,Mailchimp,API Credits
+TXN-1118,2026-08-05,999.61,GitHub,API Credits
+TXN-1116,2026-08-29,1536.6,Slack,API Credits
+TXN-1015,2026-08-29,208.9,Atlassian,Overage Charges
+TXN-1136,2026-08-26,2349.98,Salesforce,Annual Renewal
+TXN-1034,2026-08-29,4931.18,Slack,Usage Fees
+TXN-1027,2026-08-25,3222.76,GCP Services,Enterprise License
+TXN-1095,2026-08-24,815.04,Twilio,Usage Fees
+TXN-1056,2026-08-03,4635.52,Twilio,Usage Fees
+TXN-1080,2026-08-04,4697.7,Stripe,Enterprise License
+TXN-1117,2026-08-14,1664.61,Slack,Annual Renewal
+TXN-1079,2026-08-22,4094.67,Slack,API Credits
+TXN-1133,2026-08-25,2154.47,Stripe,API Credits
+TXN-1066,2026-08-28,969.83,Mailchimp,Monthly Subscription
+TXN-1026,2026-08-22,3617.57,Salesforce,Enterprise License
+TXN-1144,2026-08-11,1632.56,Salesforce,Monthly Subscription
+TXN-1157,2026-08-19,3331.85,GCP Services,API Credits
+TXN-1059,2026-08-13,1362.76,Zoom,Enterprise License
+TXN-1154,2026-08-01,1974.84,GitHub,API Credits
+TXN-1115,2026-08-11,3333.77,GCP Services,API Credits
+TXN-1000,2026-08-28,82.17,Stripe,API Credits
+TXN-1065,2026-08-06,331.55,Salesforce,Monthly Subscription
+TXN-1114,2026-08-14,396.37,Atlassian,Annual Renewal
+TXN-1098,2026-08-26,3366.04,Twilio,Enterprise License
+TXN-1012,2026-08-21,897.14,Twilio,Usage Fees
+TXN-1131,2026-08-23,1950.69,GitHub,Usage Fees
+TXN-1032,2026-08-21,4769.82,Salesforce,Monthly Subscription
+TXN-1040,2026-08-29,2612.0,GCP Services,Usage Fees
+TXN-1010,2026-08-12,1808.59,Slack,API Credits
+TXN-1142,2026-08-16,3152.4,Slack,Overage Charges
+TXN-1004,2026-08-09,4038.16,Zoom,Annual Renewal
+TXN-1070,2026-08-19,2847.87,Atlassian,Enterprise License
+TXN-1097,2026-08-06,3695.99,Atlassian,Overage Charges
+TXN-1127,2026-08-10,1161.97,Twilio,Usage Fees
+TXN-1051,2026-08-13,3654.66,GCP Services,Usage Fees
+TXN-1084,2026-08-16,1293.05,AWS Cloud,Monthly Subscription
+TXN-1167,2026-08-04,2841.65,Twilio,Overage Charges
+TXN-1063,2026-08-18,351.74,Atlassian,Monthly Subscription
+TXN-1088,2026-08-23,2167.05,AWS Cloud,Monthly Subscription
+TXN-1052,2026-08-07,991.53,Zoom,Usage Fees
+TXN-1151,2026-08-25,1980.43,GitHub,Annual Renewal
+TXN-1149,2026-08-29,3860.49,AWS Cloud,Annual Renewal
+TXN-1109,2026-08-26,1602.7,Mailchimp,Annual Renewal
+TXN-1011,2026-08-30,3433.56,GCP Services,Annual Renewal
+TXN-1085,2026-08-21,2146.7,Slack,Monthly Subscription
+TXN-1041,2026-08-08,366.93,AWS Cloud,Annual Renewal
+TXN-1164,2026-08-21,389.66,AWS Cloud,Monthly Subscription
+TXN-1104,2026-08-09,4328.55,Slack,Enterprise License
+TXN-1089,2026-08-03,4728.0,Stripe,Annual Renewal
+TXN-1137,2026-08-20,1620.62,Zoom,Annual Renewal
+TXN-1143,2026-08-03,3582.05,Twilio,Enterprise License
+TXN-1125,2026-08-22,3183.06,Atlassian,Monthly Subscription
+TXN-1111,2026-08-09,269.71,GitHub,Monthly Subscription
+TXN-1046,2026-08-18,704.94,Mailchimp,Annual Renewal
+TXN-1071,2026-08-07,3365.14,Atlassian,Usage Fees
+TXN-1113,2026-08-24,4704.3,Twilio,Enterprise License
+TXN-1132,2026-08-05,3297.49,AWS Cloud,Monthly Subscription
+TXN-1120,2026-08-10,2060.07,AWS Cloud,Enterprise License
+TXN-1044,2026-08-03,4531.83,Atlassian,Monthly Subscription
+TXN-1148,2026-08-02,1073.83,GitHub,Overage Charges
+TXN-1168,2026-08-23,1318.41,Atlassian,Usage Fees
+TXN-1005,2026-08-03,2782.6,Mailchimp,Enterprise License
+TXN-1058,2026-08-29,340.25,GitHub,Monthly Subscription
+TXN-1026,2026-08-22,3617.57,Salesforce,Enterprise License
+TXN-1006,2026-08-19,1001.83,GCP Services,Monthly Subscription
+TXN-1064,2026-08-02,2941.68,Salesforce,Annual Renewal
+TXN-1082,2026-08-09,1444.69,Twilio,API Credits
+TXN-1110,2026-08-04,1956.72,Mailchimp,Usage Fees
+TXN-1010,2026-08-12,1808.59,Slack,API Credits
+TXN-1022,2026-08-16,500.0,AWS Cloud,Monthly Subscription
+TXN-1159,2026-08-02,1337.77,Atlassian,Usage Fees
+TXN-1126,2026-08-27,4762.4,Twilio,API Credits
+TXN-1138,2026-08-27,3610.41,Salesforce,Overage Charges
+TXN-1128,2026-08-01,278.76,Zoom,Annual Renewal
+TXN-1069,2026-08-02,3115.94,GitHub,API Credits
+TXN-1103,2026-08-01,3317.16,GitHub,Enterprise License
+TXN-1077,2026-08-12,1460.69,Zoom,Annual Renewal
+TXN-1119,2026-08-24,4518.89,Mailchimp,Annual Renewal
+TXN-1031,2026-08-20,1034.61,Atlassian,Usage Fees
+TXN-1112,2026-08-17,4631.6,Salesforce,API Credits
+TXN-1073,2026-08-11,4648.64,GCP Services,Monthly Subscription
+TXN-1145,2026-08-05,796.61,GitHub,API Credits
+TXN-1152,2026-08-24,3686.44,Mailchimp,Usage Fees
+TXN-1078,2026-08-23,1547.46,Salesforce,Monthly Subscription
+TXN-1042,2026-08-18,1189.07,Twilio,Monthly Subscription
+TXN-1014,2026-08-22,1655.2,AWS Cloud,Usage Fees
+TXN-1020,2026-08-09,3747.72,GitHub,Annual Renewal
+TXN-1036,2026-08-05,3315.77,Salesforce,Usage Fees
+TXN-1068,2026-08-29,2869.89,Mailchimp,Annual Renewal
+TXN-1038,2026-08-07,4648.12,Twilio,API Credits
+TXN-1165,2026-08-08,1036.84,AWS Cloud,Annual Renewal
+TXN-1057,2026-08-14,2453.92,Twilio,Overage Charges
+TXN-1139,2026-08-27,4538.93,Zoom,Usage Fees
+TXN-1029,2026-08-29,3612.42,Salesforce,Usage Fees
+TXN-1108,2026-08-04,3003.03,Atlassian,API Credits
+TXN-1050,2026-08-21,4921.62,GCP Services,Monthly Subscription
+TXN-1169,2026-08-20,3055.88,GCP Services,Usage Fees
+TXN-1150,2026-08-13,2411.05,Atlassian,Enterprise License
+TXN-1160,2026-08-15,1667.89,GitHub,Enterprise License
+TXN-1067,2026-08-22,4316.01,GitHub,Monthly Subscription
